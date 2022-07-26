@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/aabcarians/.oh-my-zsh"
+export ZSH="/Users/reatlat/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -233,3 +233,7 @@ alias trashday="sudo rm -rfv /Volumes/*/.Trashes; sudo rm -rfv ~/.Trash; sudo rm
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 # if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 # export PATH="$HOME/.gem/ruby/3.0.2/bin:$PATH"
+
+
+archey
+

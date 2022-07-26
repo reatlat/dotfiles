@@ -3,7 +3,7 @@ Yep, these are my dotfiles. I manage them via [GNU Stow](https://www.gnu.org/sof
 
 
 
-## Steps to install
+## Steps to install manually
 
 **1. Install Homebrew by running:**  
 ```
@@ -14,7 +14,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 **2. Clone this repo**  
 ```
 $ cd ~/
-$ git clone --depth=1 git@github.com:ItsMeAra/dotfiles.git
+$ git clone --depth=1 git@github.com:reatlat/dotfiles.git
 $ cd dotfiles/
 ```
 
