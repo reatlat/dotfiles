@@ -31,6 +31,7 @@ $ cd ~/dotfiles
 $ stow bash
 $ stow zsh (do this after installing oh my zsh)
 $ stow git
+$ stow husky
 ```
 
 

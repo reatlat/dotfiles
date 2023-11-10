@@ -7,13 +7,12 @@ chromium
 handbrake
 imageoptim
 iterm2
-local
 signal
 visual-studio-code
 zoom
 fork
 alfred
-droplr
+cleanshot
 telegram
 little-snitch
 drivedx
@@ -25,4 +24,9 @@ makemkv
 balenaetcher
 vlc
 switchhosts
-spotify
+coconutbattery
+jetbrains-toolbox
+webstorm
+phpstorm
+pycharm
+surfshark

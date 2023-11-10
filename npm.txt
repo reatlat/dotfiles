@@ -1,4 +1,2 @@
 netlify-cli
-@sanity/client
-@vue/cli
-yarn
+wrangler

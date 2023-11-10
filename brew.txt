@@ -1,11 +1,11 @@
-archey
+archey4
 git
 gh
 micro
-rbenv
 stow
 tree
-vim
 wget
-yarn
 htop
+mc
+nvm
+pnpm

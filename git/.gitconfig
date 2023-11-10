@@ -27,6 +27,10 @@
     editor = micro
 
 [github]
-    user = itsmeara
+    user = reatlat
+
+[gitlab]
+    user = reatlat
+
 [http]
     postBuffer = 157286400
