@@ -30,3 +30,4 @@ webstorm
 phpstorm
 pycharm
 surfshark
+hazel
